@@ -1,0 +1,17 @@
+# Ambiente Virtual
+venv/
+.venv/
+env/
+
+# Cache do Python e Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Configurações de IDE e Sistema
+.vscode/
+.DS_Store
+
+# Arquivos de saída temporários ou logs
+*.log
